@@ -1,3 +1,6 @@
+---
+title: "Character"
+---
 # Character
 Character ist ein spezieller Datentyp, jedoch grundsätzlich eine Ganzzahl. Warum speziell, weil Character wie sein Name sagt einen "Charakter" ausdrücken kann beziehungsweise einem zugewiesen bekommen kann, aufgrund dessen wird dieser Datentyp auch oft in der Form eines Arrays als String verwendet.
 

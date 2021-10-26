@@ -1,3 +1,6 @@
+---
+title: "Header File"
+---
 # Header
 Eine Header Datei ist eine Datei, welche in der Regel [Typdefinitionen](Datentypen/Typdefinition.md) beinhaltet, als auch Funktionsdefinitionen, welche in [Source](Dateitypen/Source.md) Dateien definiert werden, aber auch direkt im Header definiert werden können.
 ## Headerguards

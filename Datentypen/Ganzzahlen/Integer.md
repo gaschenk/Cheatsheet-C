@@ -1,3 +1,6 @@
+---
+title: "Integer"
+---
 # Integer
 Integer ist ein Ganzzahlen Datentyp, welcher in der Regel 32 Bit (4 Bytes) groß ist und auf den meisten Betriebssystem ein signiertes Bit beinhaltet und hat somit Werte von „2.147.483.647“ bis „-2.147.483.648“, diese Werte entsprechen „2^31-1“ und „(-1) * 2^31“.
 

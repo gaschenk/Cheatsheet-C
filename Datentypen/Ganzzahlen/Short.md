@@ -1,3 +1,6 @@
+---
+title: "Short"
+---
 # Short
 Short oder auch "short Integer" beschreibt einen Datentyp der in der Regel 2 Bytes verwendet und kleiner als Integer ist.
 ## Wertebereich

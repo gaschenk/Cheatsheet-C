@@ -1,3 +1,6 @@
+---
+title: "Struct"
+---
 # Struct
 Ein Struct ist ein zusammenschluss von Daten, um diese Werte unter einer Bezeichnung zusammen zu fassen. Das hat den Vorteil von einer besseren Übersicht.
 ## Deklaration im Code

@@ -1,3 +1,6 @@
+---
+title: "Typdefinition"
+---
 # Typdefinition "typedef"
 Eine Typdefinition ist eine Änderung beziehungsweise eine Möglichkeit einem Datentyp oder Zusammenschluss an Datentypen einen weiteren Namen zu geben.
 ## Deklaration im Code

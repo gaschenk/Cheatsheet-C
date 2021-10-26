@@ -1,3 +1,6 @@
+---
+title: "Pointer & Referenzen"
+---
 # Pointer & Referenzen
 Man kann Pointer und Referenzen gleich setzen, da beide die Speicheraddresse eines Speicherbereichs beinhalten.
 ## Deklaration im Code

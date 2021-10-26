@@ -1,3 +1,6 @@
+---
+title: "Long Long"
+---
 # Long Long
 Long Long oder auch "very long Integer" beschreibt den Datentyp der in der Regel 8 Bytes verwendet, jedoch kann es auch der Fall sein das Long Long die doppelte Länge hat wie der normale Long und deutlich größer als der standardmäßige Integer ist.
 ## Wertebereich
