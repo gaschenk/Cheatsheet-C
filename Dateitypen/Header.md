@@ -1,5 +1,5 @@
 # Header
-Eine Header Datei ist eine Datei, welche in der Regel [[Datentypen/Typdefinition|Typdefinition(en)]] beinhaltet, als auch Funktionsdefinitionen, welche in [[Dateitypen/Source|Source]] Dateien definiert werden, aber auch direkt im Header definiert werden können.
+Eine Header Datei ist eine Datei, welche in der Regel [Typdefinitionen](Datentypen/Typdefinition.md) beinhaltet, als auch Funktionsdefinitionen, welche in [Source](Dateitypen/Source.md) Dateien definiert werden, aber auch direkt im Header definiert werden können.
 ## Headerguards
 Headerguards sind dazu da um Linkerprobleme durch mehrfache definierung von Typen, Strukturen, Funktionen zu verhindern, wenn mehrere Dateien ``included`` werden.
 ### pragma once
@@ -52,6 +52,7 @@ void printHelloWorld(){
 ```
 ### \#import
 Obwohl man ``#import`` verwenden kann, ist es nicht empfohlen, da es unklare Versprechungen macht und nicht unbedingt von jedem Compiler unterstützt wird.
+Ebenso ist es nicht part von dem C Standard, Deprecated und gehört eigentlich zu Objective-C, dies ist Apple's alternative zu C++ und ist im Vergleich zu C ein deutlicher Unterschied.
 #### ``Student.h``
 ```c
 typedef struct StudentStruktur{

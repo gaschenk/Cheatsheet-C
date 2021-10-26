@@ -2,8 +2,8 @@
 Studiums Cheatsheet für C, erstellt mit Obsidian, daher Probleme mit der Ansicht auf GitHub.
 ## Datentypen
 ### Ganzzahlen
-#### [[Datentypen/Ganzzahlen/Character|Character]]
-#### [[Datentypen/Ganzzahlen/Short|Short]]
-#### [[Datentypen/Ganzzahlen/Integer|Integer]]
-#### [[Datentypen/Ganzzahlen/Long|Long]]
-#### [[Datentypen/Ganzzahlen/Long Long|Long Long]]
+#### [Character](Datentypen/Ganzzahlen/Character.md)
+#### [Short](Datentypen/Ganzzahlen/Short.md)
+#### [Integer](Datentypen/Ganzzahlen/Integer.md)
+#### [Long](Datentypen/Ganzzahlen/Long.md)
+#### [Long Long](Datentypen/Ganzzahlen/Long%20Long.md)

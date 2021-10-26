@@ -1,7 +1,7 @@
 # Source
 Eine Source Datei dient zur Implementierung von definierten Funktionen, beziehungsweise der allgemeinen Implementation von Software Logik.
 ## Beispiel
-Dies ist ein Beispiel, das aufzeigt wie man eine Funktion, welche in einem [[Dateitypen/Header|Header]] definiert worden ist, implementiert.
+Dies ist ein Beispiel, das aufzeigt wie man eine Funktion, welche in einem [Header](Dateitypen/Header.md) definiert worden ist, implementiert.
 #### ``Student.h``
 ```c
 #pragma once
