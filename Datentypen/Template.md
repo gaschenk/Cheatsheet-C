@@ -1,3 +1,3 @@
-### Datentyp
-#### Wertebereich
-#### Deklaration im Code
+# Datentyp
+## Wertebereich
+## Deklaration im Code

@@ -1,11 +1,11 @@
-### Character
+# Character
 Character ist ein spezieller Datentyp, jedoch grundsätzlich eine Ganzzahl. Warum speziell, weil Character wie sein Name sagt einen "Charakter" ausdrücken kann beziehungsweise einem zugewiesen bekommen kann, aufgrund dessen wird dieser Datentyp auch oft in der Form eines Arrays als String verwendet.
 
-#### Wertebereich
+## Wertebereich
 * Signiert: -128 bis 127
 * Unsigniert: 0 bis 255
 
-#### Deklaration im Code
+## Deklaration im Code
 ```c
 int main(void){
 	// Deklaration Datentyp: char 
