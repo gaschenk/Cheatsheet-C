@@ -6,4 +6,4 @@ Studiums Cheatsheet für C, erstellt mit Obsidian, daher Probleme mit der Ansich
 #### [Short](Datentypen/Ganzzahlen/Short.md)
 #### [Integer](Datentypen/Ganzzahlen/Integer.md)
 #### [Long](Datentypen/Ganzzahlen/Long.md)
-#### [Long Long](Datentypen/Ganzzahlen/Long%20Long.md)
+#### [Long Long](Datentypen/Ganzzahlen/LongLong.md)
