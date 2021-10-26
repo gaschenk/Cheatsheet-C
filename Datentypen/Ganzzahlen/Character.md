@@ -14,4 +14,5 @@ int main(void){
 	unsigned char y  = 0; // Zuweisung mit dem Wert 0
 	// Deklaration Datentyp: char
 	char z  = 'A'; // Zuweisung mit dem Wert 'A'
-}```
+}
+```
