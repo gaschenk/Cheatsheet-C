@@ -12,7 +12,7 @@ typedef struct StudentStruktur{
 }Student;
 ```
 ## Beispiel Benutzung
-Wie man [[Typdefinition#Deklaration im Code|oben]] den Struct ``StudentStruktur`` definiert hat, kann man ihn nun mit ``Student`` verwenden anstatt mit ``struct StudentStruktur``.
+Wie man [[Datentypen/Typdefinition#Deklaration im Code|oben]] den Struct ``StudentStruktur`` definiert hat, kann man ihn nun mit ``Student`` verwenden anstatt mit ``struct StudentStruktur``.
 ```c
 int main(void){
 	Student studentA;

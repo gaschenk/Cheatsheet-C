@@ -1,5 +1,5 @@
 # Header
-Eine Header Datei ist eine Datei, welche in der Regel [[Typdefinition|Typdefinition(en)]] beinhaltet, als auch Funktionsdefinitionen, welche in [[Source]] Dateien definiert werden, aber auch direkt im Header definiert werden können.
+Eine Header Datei ist eine Datei, welche in der Regel [[Datentypen/Typdefinition|Typdefinition(en)]] beinhaltet, als auch Funktionsdefinitionen, welche in [[Dateitypen/Source|Source]] Dateien definiert werden, aber auch direkt im Header definiert werden können.
 ## Headerguards
 Headerguards sind dazu da um Linkerprobleme durch mehrfache definierung von Typen, Strukturen, Funktionen zu verhindern, wenn mehrere Dateien ``included`` werden.
 ### pragma once
