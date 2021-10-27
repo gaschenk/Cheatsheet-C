@@ -7,10 +7,21 @@ Eine Typdefinition ist eine Änderung beziehungsweise eine Möglichkeit einem Da
 Das folgende Beispiel zeigt wie man ein Struct ``StudentStruktur`` eine weitere Namensdefinition geben kann, in diesem Falle ``Student``.
 ```c
 typedef struct StudentStruktur{
-	char[128] Name;
+	char Name[128];
 	unsigned char Alter;
-	char[128] Fakultät;
-	char[128] Studiengang;
+	char Fakultät[128];
+	char Studiengang[128];
+	unsigned char Semester;
+}Student;
+```
+
+#### ``Alternative``
+```c
+typedef struct{
+	char Name[128];
+	unsigned char Alter;
+	char Fakultät[128];
+	char Studiengang[128];
 	unsigned char Semester;
 }Student;
 ```

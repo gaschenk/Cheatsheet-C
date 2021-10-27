@@ -7,10 +7,10 @@ Ein Struct ist ein zusammenschluss von Daten, um diese Werte unter einer Bezeich
 Die Deklaration und Benutzung eines Structs findet mit ``struct NameDerStruktur`` und folgt innerhalb seines Scopes mit den Definitionen von seinen Memberwerten/Memberfields.
 ```c
 struct Student{
-	char[128] Name;
+	char Name[128];
 	unsigned char Alter;
-	char[128] Fakultät;
-	char[128] Studiengang;
+	char Fakultät[128];
+	char Studiengang[128];
 	unsigned char Semester;
 }
 ```
