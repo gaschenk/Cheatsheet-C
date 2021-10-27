@@ -9,11 +9,11 @@ Dies ist ein Beispiel, das aufzeigt wie man eine Funktion, welche in einem [Head
 ```c
 #pragma once
 
-typedef struct StudentStruktur{
-	char[128] Name;
+typedef struct{
+	char Name[128];
 	unsigned char Alter;
-	char[128] Fakultät;
-	char[128] Studiengang;
+	char Fakultät[128];
+	char Studiengang[128];
 	unsigned char Semester;
 }Student;
 
