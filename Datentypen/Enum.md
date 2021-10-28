@@ -1,3 +1,6 @@
+---
+title: "Enums"
+---
 # Enum
 Ein Enum ist eine Möglichkeit für verschiedene Werte von Ganzzahlen Datentypen verschiedene Bezeichner unter einem Begriff zusammen zu fassen, dies ist zum Beispiel sehr nützlich um Zustände eines Programms kompakt und präzise zusammen zu fassen.
 ## Deklaration im Code

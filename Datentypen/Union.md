@@ -1,5 +1,5 @@
 ---
-title: Union
+title: Unions
 ---
 # Union
 Ein Union ist ein Zusammenschluss von verschiedenen Datentypen unter einem Namen, jedoch lediglich, um aus diesem Bezeichner mit verschiedenen Datentypen Informationen zu erhalten.
