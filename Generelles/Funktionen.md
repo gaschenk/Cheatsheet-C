@@ -1,3 +1,6 @@
+---
+title: Funktionen
+---
 # Funktionen
 ## Wie deklariert man eine Funktion?
 Man deklariert in C Funktionen indem man mit dem Rückgabe-Datentyp beginnt und dann mit einem Leerzeichen und dem Bezeichner (Namen) der Funktion folgt. Daraufhin kann man die Parameter für die Funktion angeben diese werden in den ``()``-Klammern angegeben und benötigen vor dem definieren ihres Namens auch die Definition des Datentyps.
