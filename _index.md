@@ -3,7 +3,8 @@ title: Index Cheatsheet C
 ---
 # Cheatsheet-C
 Studiums Cheatsheet für C, erstellt mit Obsidian, daher Probleme mit der Ansicht auf GitHub.
-
+## Generelles
+### [Funktionen](Generelles/Funktionen.md)
 ## Dateitypen
 
 ### [Header](Dateitypen/Header.md)
