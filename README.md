@@ -1,12 +1,8 @@
 ---
 draft: true
 ---
-# Cheatsheet-C
-Studiums Cheatsheet für C, erstellt mit Obsidian, daher Probleme mit der Ansicht auf GitHub.
-## Datentypen
-### Ganzzahlen
-#### [Character](Datentypen/Ganzzahlen/Character.md)
-#### [Short](Datentypen/Ganzzahlen/Short.md)
-#### [Integer](Datentypen/Ganzzahlen/Integer.md)
-#### [Long](Datentypen/Ganzzahlen/Long.md)
-#### [Long Long](Datentypen/Ganzzahlen/LongLong.md)
+# Was ist das hier genau?
+Dies ist ein Git Repository für einen Obsidian Vault (ein spezieller Markdown Editor).
+
+In diesem Git Repository wird über die Zeit Informationen und möglicherweise Beispiele als auch allgemeine Tipps und Tricks spezifisch zu der Programmiersprache C hinzugefügt.
+
