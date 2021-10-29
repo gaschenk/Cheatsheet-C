@@ -1,3 +1,6 @@
+---
+title: Beispiele für Funktionen
+---
 # Beispiele für Funktionen
 ```c
 // Funktionsname: "example1"
