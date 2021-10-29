@@ -2,6 +2,9 @@
 title: Allgemeines zu Schleifen
 ---
 # Allgemeines zu Schleifen
+## Welche Schleifentypen gibt es?
+- [While Schleife](Generelles/Schleifen/While.md)
+- [For Schleife](Generelles/Schleifen/For.md)
 ## Wie breche ich verfrüht aus einer Schleife aus?
 Das ausbrechen aus einer Schleife ohne die Bedingungen zu erfüllen, lässt sich in C über dem Keyword ``break`` ermöglichen.
 
