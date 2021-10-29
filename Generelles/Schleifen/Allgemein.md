@@ -2,6 +2,8 @@
 title: Allgemeines zu Schleifen
 ---
 # Allgemeines zu Schleifen
+## Was ist eine Schleife?
+Eine Schleife ist eine Definierung für das mehrfache Durchlaufen eines Programmabschnitts, welcher an einer oder verschiedenen Bedingungen gebunden sein kann.
 ## Welche Schleifentypen gibt es?
 - [While Schleife](Generelles/Schleifen/While.md)
 - [For Schleife](Generelles/Schleifen/For.md)
