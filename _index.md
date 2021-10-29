@@ -4,9 +4,7 @@ title: Index Cheatsheet C
 # Cheatsheet-C
 Studiums Cheatsheet für C, erstellt mit Obsidian, daher Probleme mit der Ansicht auf GitHub.
 ## Generelles
-- ### Schleifen
-	- #### [Allgemein](Generelles/Schleifen/Allgemein.md)
-	- #### [While](Generelles/Schleifen/While.md)
+- ### [Schleifen](Generelles/Schleifen/Allgemein.md)
 
 - ### [Funktionen](Generelles/Funktionen.md)
 
