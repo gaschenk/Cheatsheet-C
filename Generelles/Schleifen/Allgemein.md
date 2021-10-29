@@ -5,8 +5,8 @@ title: Allgemeines zu Schleifen
 ## Was ist eine Schleife?
 Eine Schleife ist eine Definierung für das mehrfache Durchlaufen eines Programmabschnitts, welcher an einer oder verschiedenen Bedingungen gebunden sein kann.
 ## Welche Schleifentypen gibt es?
-- [While Schleife](Generelles/Schleifen/While.md)
-- [For Schleife](Generelles/Schleifen/For.md)
+- ### [While Schleife](Generelles/Schleifen/While.md)
+- ### [For Schleife](Generelles/Schleifen/For.md)
 ## Wie breche ich verfrüht aus einer Schleife aus?
 Das ausbrechen aus einer Schleife ohne die Bedingungen zu erfüllen, lässt sich in C über dem Keyword ``break`` ermöglichen.
 
